@@ -1,0 +1,26 @@
+{
+  "title": "Ambientcore Textures",
+  "study": "ax01",
+  "bpm": 70,
+  "source_audio": "preview/ambientcore-textures-simple-synth-preview.mp3",
+  "source_audio_sha256": "834667994979310517671b5c837a43bb6edf4942d7de9ea65fabb283da7d4ac1",
+  "source_midi": "midi/ax01-frost-window/ax01-frost-window-combined.mid",
+  "source_midi_sha256": "8e1c72ae1746c12898edec3784247c8a86004f5bab4aa10e2f57b094d83276c4",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "52d385d3ee8f012623942693a993e691e1eb277fe34dfccb11b8ae4cca355e00",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "66998e2b8355bbf101244a1874d285512558e743bb82f123084496ccada8826d",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "598e10d6580919703fb0454bf42a88ffcd9ff71fbda171f45f48e78d837e81d7",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
