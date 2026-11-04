@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+ax01,Frost Window,pack-local equal-tempered pitch collection,C,70,4/4,480,32,61440,midi/ax01-frost-window/ax01-frost-window-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ax02,Slow Air,pack-local equal-tempered pitch collection,D#,70,4/4,480,32,61440,midi/ax02-slow-air/ax02-slow-air-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ax03,Soft Distance,pack-local equal-tempered pitch collection,F#,70,4/4,480,32,61440,midi/ax03-soft-distance/ax03-soft-distance-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ax04,Still Return,pack-local equal-tempered pitch collection,C#,70,4/4,480,32,61440,midi/ax04-still-return/ax04-still-return-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

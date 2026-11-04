@@ -1,0 +1,15 @@
+{
+  "source_audio": "preview/ambientcore-textures-simple-synth-preview.mp3",
+  "source_audio_sha256": "834667994979310517671b5c837a43bb6edf4942d7de9ea65fabb283da7d4ac1",
+  "excerpt_start_seconds": 0,
+  "excerpt_duration_seconds": 18,
+  "video": "film/preview.mp4",
+  "video_sha256": "2918c78f7b554fbee4934848a6dd6f8bd2716e6c44d506a31c91add80149fab8",
+  "duration_seconds": 18.0,
+  "video_codec": "H.264",
+  "audio_codec": "AAC",
+  "caption": "film/preview.vtt",
+  "poster": "film/poster.jpg",
+  "disclosure": "preview, not master",
+  "note": "A static illustrated poster and audio excerpt; no recording-session claim."
+}
