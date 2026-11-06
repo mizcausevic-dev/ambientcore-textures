@@ -7,16 +7,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 789,
-      "sha256": "5d6914d52dd5429b47512cc48f40e1450f3507d9bfb2e36a332da901c941b9bd"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3882,
-      "sha256": "8ae8c54bdf8635ac8bd1b6def38e73119361c4049abf3b48e44d26a1bb117ca7"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -59,7 +49,7 @@
     {
       "path": "catalog/clip-index.csv",
       "bytes": 2156,
-      "sha256": "b53485e8927375c53e71c73da318ce0591a39bc8f464471b853d10892e053f38"
+      "sha256": "76ffd08350f1c6da4730b7ca362cd97cbffc33f431d8d6eef7d42180921e2e50"
     },
     {
       "path": "catalog/drum-map.csv",
@@ -119,82 +109,82 @@
     {
       "path": "clips/ax01-chord-progression-01.mid",
       "bytes": 174,
-      "sha256": "48a7f68b2ac2523389bc0eb3765a6a4b19e9f6b749a70c9041fd39022618bdb5"
+      "sha256": "7bbe775b964eb57ca9c5e8af3ad54c25a4fd016bbc3119002682d359ac9cfd0e"
     },
     {
       "path": "clips/ax01-chord-progression-02.mid",
       "bytes": 174,
-      "sha256": "b9231181d239522075576f43d6f8df66b631b1572ed8ea2e7d24486441c805e4"
+      "sha256": "7ae4419d1b52257e5b2955ecea7f47e3ea730e39158783c6eb760154beeb79a9"
     },
     {
       "path": "clips/ax01-chord-progression-03.mid",
       "bytes": 174,
-      "sha256": "17248d89d730884a9ad0015069b4af0e104d65547ef530879e23f5419c8235a5"
+      "sha256": "3b8c57edef66de0fe504cc67729fc5ec276b1871ee2c249bb5ecf535c19cf231"
     },
     {
       "path": "clips/ax01-chord-progression-04.mid",
       "bytes": 174,
-      "sha256": "4f294c0909d26dbb9c69bdc3ef75d9941781846a6ecf2aa52aaa230fa8735bea"
+      "sha256": "bb3aa8be1aaa9ee885bbcbd1609f6d5d7c42176200bc9c692f6b27f2b6526165"
     },
     {
       "path": "clips/ax02-chord-progression-01.mid",
       "bytes": 174,
-      "sha256": "85420b60b11027f682afcc04911de8ea8e102e57f828bbbd4a86ee0d550a2384"
+      "sha256": "9d2043d757b255f4b8d36ffffe08c5426ff272b89686c94cb21ae5d525b3c819"
     },
     {
       "path": "clips/ax02-chord-progression-02.mid",
       "bytes": 174,
-      "sha256": "786ff7c157dcc7bcfb9b9025637f5533fe32024d78c94806c9b96163e86e4aa0"
+      "sha256": "71db8fc649ebf0bb37775114cc9db91b69390abaaddc62c14bb12ebf213b34d4"
     },
     {
       "path": "clips/ax02-chord-progression-03.mid",
       "bytes": 174,
-      "sha256": "61137c7c38e6b80d870559fff7838676cefca1716da7e294b2e6a8510309336b"
+      "sha256": "205781375392b57487ae2accc5a787fb2040310ade1648d9876a96a48fba18fc"
     },
     {
       "path": "clips/ax02-chord-progression-04.mid",
       "bytes": 174,
-      "sha256": "271b828aaef74c99b3cfa931f31b9be2c590776a817da6864244ee96620c35ed"
+      "sha256": "f116557e7973bb26a409fe468e1d2bdc882debff4356b2e819c9362716ad80ae"
     },
     {
       "path": "clips/ax03-chord-progression-01.mid",
       "bytes": 174,
-      "sha256": "811e17b5f10e2d9948f99e524271e80cbe898b1a2d51e517279d68d68ddc4c66"
+      "sha256": "9cac5c0b4f4ca537e0cf18d2dccaf4ce85facf8f746c3141da47cbc87935a0c7"
     },
     {
       "path": "clips/ax03-chord-progression-02.mid",
       "bytes": 174,
-      "sha256": "6887b7fe9c10c5678eddaff3e3d01a516824f14b4e4191638c8586c101f8ea8a"
+      "sha256": "0ce95a611b17493be83fb51f6f0ff7a7988d4586f56eb429fad5fcb5e0fd6a63"
     },
     {
       "path": "clips/ax03-chord-progression-03.mid",
       "bytes": 174,
-      "sha256": "2906ce58fe4a5d1685feeb781e43cfe864c026221c482d592f5134fb280230cc"
+      "sha256": "b86899f6c7ec23cd22cae6a83f37a93e35590729a8984daece4e087eb4fa9299"
     },
     {
       "path": "clips/ax03-chord-progression-04.mid",
       "bytes": 174,
-      "sha256": "078bcb48dca0ea600b77aef40279069e5c2cdc555254550d52a16279a851328b"
+      "sha256": "4ac02c61387ab70e324823a7919b0c5372b476fdaafb471ee733f61d8b6b4ea6"
     },
     {
       "path": "clips/ax04-chord-progression-01.mid",
       "bytes": 174,
-      "sha256": "ceb98ccbdf0ccfaae2da9ad8f044827fa0d1a4407c041a0d13f4b22af323e97a"
+      "sha256": "7146217e2c4aa85885ac2866c108a6fb711f98fd94770636b8b154eac69721cf"
     },
     {
       "path": "clips/ax04-chord-progression-02.mid",
       "bytes": 174,
-      "sha256": "a63e4554dcf89fc4ce31b09292d076a8b4b1af21a0dfb81299786a5b0ff6d403"
+      "sha256": "67f208897c2061173ffabf94dbc393a05b278275c660ceab72a7ccecb411c904"
     },
     {
       "path": "clips/ax04-chord-progression-03.mid",
       "bytes": 174,
-      "sha256": "c8ce84654d6ec87d6980471e6a13bc2e82aa7073aa81c9292e5841c2a5decc1f"
+      "sha256": "3d89f4106da12ea6fdb2fbe04bafc34e14b84aaf09579e013424f7bf65cb81d7"
     },
     {
       "path": "clips/ax04-chord-progression-04.mid",
       "bytes": 174,
-      "sha256": "94bb7c9510ed77e93ce367c9331de03cad1dc08766bdedc3eeab51255a5bc8ff"
+      "sha256": "2f2a809d37e568122705be954507ebe3626b49cd0fa63b6b43923886e1666302"
     },
     {
       "path": "delivery.md",
@@ -203,8 +193,8 @@
     },
     {
       "path": "downloads/ambientcore-textures-midi.zip",
-      "bytes": 21718,
-      "sha256": "19dd71f94880ffd4f0c68973e87bb0374243b2d1831b698cfe4d4765c81a798c"
+      "bytes": 21995,
+      "sha256": "474e88140ecf5991c6f5d38873181caae80eafdfedc1e7debab96cda76a42e5a"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -225,11 +215,6 @@
       "path": "film/motion-overlay.png",
       "bytes": 33516,
       "sha256": "ffbf1eb17333e25f9f86880953df38e6705fa5cb051a9db0d55f527576e30745"
-    },
-    {
-      "path": "film/motion-preview.mp4",
-      "bytes": 492867,
-      "sha256": "598e10d6580919703fb0454bf42a88ffcd9ff71fbda171f45f48e78d837e81d7"
     },
     {
       "path": "film/motion-preview.vtt",
@@ -258,8 +243,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9605,
-      "sha256": "053f923c382f5a9b3a6ef0e0ba5c1ef3db4d9abed0ebcf45004343ca92a21608"
+      "bytes": 9838,
+      "sha256": "7be1fb35e43c24d57ac5dc65d29da63ddd9741f79012af0b8ee0fafeb922bac9"
     },
     {
       "path": "midi/ax01-frost-window/ax01-frost-window-combined.mid",
@@ -402,6 +387,11 @@
       "sha256": "dd85e8ec000ef75be4ca9fda45d4210734805e610d390b8240969f167b55f774"
     },
     {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 789,
+      "sha256": "5d6914d52dd5429b47512cc48f40e1450f3507d9bfb2e36a332da901c941b9bd"
+    },
+    {
       "path": "preview/ambientcore-textures-simple-synth-preview.mp3",
       "bytes": 2646979,
       "sha256": "834667994979310517671b5c837a43bb6edf4942d7de9ea65fabb283da7d4ac1"
@@ -410,6 +400,16 @@
       "path": "preview/preview-manifest.json",
       "bytes": 1136,
       "sha256": "e05a44050cbc2c389fe8ae5b3b5df3764a128a342fac14b04553f1f25b4ea211"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4040,
+      "sha256": "c973a0f60f5abaa3f70b38e460632092a24bb44504e5d6bfae5fe4859979ba5b"
+    },
+    {
+      "path": "REVISION.md",
+      "bytes": 339,
+      "sha256": "0913151df3fe325e840091485f225bfb1e9b103fd16c564a30526e7540dc846b"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -453,8 +453,8 @@
     },
     {
       "path": "tools/produce_clips.py",
-      "bytes": 6758,
-      "sha256": "17f1280e0d2c6b083ac402950e3350e63dfa45d0d36c8be13e968a222f80860f"
+      "bytes": 7609,
+      "sha256": "e1b5ae7c373a87a49ea7c6c5e223b52a25c5fb9487cc18bc91663774a117df4e"
     },
     {
       "path": "tools/render_motion_preview.py",
