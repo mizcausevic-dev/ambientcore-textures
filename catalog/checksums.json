@@ -193,8 +193,8 @@
     },
     {
       "path": "downloads/ambientcore-textures-midi.zip",
-      "bytes": 21995,
-      "sha256": "474e88140ecf5991c6f5d38873181caae80eafdfedc1e7debab96cda76a42e5a"
+      "bytes": 22982,
+      "sha256": "1e1798d673041cf6acf83759499e03b66267bdd92166637fb656d7c8a60cba62"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -243,8 +243,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9838,
-      "sha256": "7be1fb35e43c24d57ac5dc65d29da63ddd9741f79012af0b8ee0fafeb922bac9"
+      "bytes": 10028,
+      "sha256": "35c6bcaf27ee8248589f3aed89b7de3c2a34608c8d966ae9f8a491020fb8a114"
     },
     {
       "path": "midi/ax01-frost-window/ax01-frost-window-combined.mid",
@@ -387,6 +387,11 @@
       "sha256": "dd85e8ec000ef75be4ca9fda45d4210734805e610d390b8240969f167b55f774"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "MOTION-PREVIEW.md",
       "bytes": 789,
       "sha256": "5d6914d52dd5429b47512cc48f40e1450f3507d9bfb2e36a332da901c941b9bd"
@@ -403,8 +408,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4040,
-      "sha256": "c973a0f60f5abaa3f70b38e460632092a24bb44504e5d6bfae5fe4859979ba5b"
+      "bytes": 4155,
+      "sha256": "bb62a077c22b2e0d57028ca504c13c344050070992701d5c9bfcb4b71eb92cf6"
     },
     {
       "path": "REVISION.md",
